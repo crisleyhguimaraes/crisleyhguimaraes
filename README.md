@@ -1,5 +1,6 @@
 ### E ae sou o Crisley, estudande de programação e curioso no mundo da tecnologia!
-- Estudando Node.js | SQL | Javascript | HTML | CSS | Git | Scrum | Docker
+- Estudando HTML, CSS, Javascript e Node.js 
+
 <div align="center">
   <a href="https://github.com/crisleyhguimaraes">
 

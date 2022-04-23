@@ -1,4 +1,4 @@
-### E ae sou o Crisley, estudande de programação e curioso no mundo da tecnologia!
+### E ae sou o Crisley, estudande de programação e admirador da tecnologia!
 
 - Atualmente trabalho com suporte de TI e iniciei desenvolvimento baseado em java script e node
 - Tecnologias HTML, CSS, Javascript e Node.js 

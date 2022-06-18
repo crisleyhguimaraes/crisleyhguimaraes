@@ -5,6 +5,24 @@
 - Sempre estudando, e aprimorando cada vez mais meus conhecimentos.
 - Curto tecnologia, anime e musica.
 
+const crisleyhguimaraes = {
+    personal: {
+        fullName: 'Crisley Henrique Guimarães',
+        birthDate: '1993-01-23',
+        interests: ['music', 'games', 'language learning', 'anime', 'movies'],
+    },
+    technical: {
+        technologies: {
+            frontEnd: {
+                Javascript: ['Vanilla JS'],
+                HTML: ['HTML5', 'Semantic HTML'],
+                CSS: ['sass'],
+            },
+        },
+    }
+}
+
+
 <div align="center">
   <a href="https://github.com/crisleyhguimaraes">
 

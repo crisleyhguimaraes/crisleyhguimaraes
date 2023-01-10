@@ -1,6 +1,6 @@
 ### E ae sou o Crisley, estudande de programação e admirador da tecnologia!
 
-- Atualmente trabalho com suporte de TI e desenvolvimento baseado em JavaScript e PHP.
+- Atualmente trabalho com suporte de TI e desenvolvimento WEB baseado em JavaScript e PHP.
 
 
 <div align="center">

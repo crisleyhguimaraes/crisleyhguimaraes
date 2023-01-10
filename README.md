@@ -1,7 +1,7 @@
 ### E ae sou o Crisley, estudande de programação e admirador da tecnologia!
 
 - Atualmente trabalho com suporte de TI e inciei estudos na desenvolvimento baseado em JavaScript e PHP.
-- Tecnologias HTML, CSS, Javascript e PHP.
+- Tecnologias Javascript e PHP.
 
 
 <div align="center">
